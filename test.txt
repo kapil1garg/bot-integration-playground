@@ -1,1 +1,2 @@
 Testing if Slackbot emojis work in commit and comments
+Adding partyparrot emoji in commit
